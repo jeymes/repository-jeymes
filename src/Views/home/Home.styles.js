@@ -7,7 +7,6 @@ justify-content: flex-start;
 align-items: center;
 border-top: 2px solid #111;
 width: 100%;
-height: 100vh;
 `;
 export const ContainerTitle = styled.div`
     display: flex;
